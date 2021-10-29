@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varuvirus
 - 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning go, scala, Apache Spark, graph databases
+- 🌱 I’m currently learning go and graph databases
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - varuvirus@hotmail.com
 
